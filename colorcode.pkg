@@ -1,0 +1,23 @@
+d 'COLORCODE': a module to return RGB, CMYK, and HSV values of Stata colors
+d
+d  colorcode is a command that returns the color code for 
+d  all of Stata colors, in all color scales supported by Stata 
+d  which are RGB, CMYK, and HSV
+d
+d KW: colors
+d KW: scheme
+d KW: graphics
+d KW: visualization
+d KW: RGB
+d KW: CMYK
+d KW: HSV
+d
+d Requires: Stata version 11 
+d
+d Distribution-Date: 20161111
+d
+d Author: E.F. Haghish, University of Southern Denmark
+d Support: email haghish@imada.sdu.dk
+d
+F colorcode.ado
+F colorcode.sthlp

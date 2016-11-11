@@ -1,0 +1,3 @@
+v 1.0.0
+d 'COLORCODE': a module to return the RGB, CMYK, and HSV values of Stata colors
+p colorcode
